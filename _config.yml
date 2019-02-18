@@ -7,11 +7,11 @@ favicon: /favicon.ico
 # Header
 
 # Keywords of your site | 网站关键字
-keywords: MinHow,MinHow's Blog
+keywords: "遥感, GIS"
 # Head headline | 头部标题
-header_title: MinHow's Blog
+header_title: Geo-I Minner
 # Head description | 头部描述
-header_description: 一个专注 WEB 开发的技术博客
+header_description: 地理信息 + 城市智能
 # Link to your logo | logo地址
 logo: images/logo.png
 # Link to your banner_img | 首页banner图地址
@@ -27,7 +27,7 @@ menu:
     url: /
     target: false
   archive:
-    title: Archives
+    title: Posts
     url: /archives
     target: false
   user:
@@ -41,21 +41,14 @@ menu:
 #    target: true         Whether to jump out | 是否跳出
 social:
   home:
-    title: MinHow
-    url: //minhow.com
+    title: Geo-I Minner
+    url: //peacefun.github.io
     target: true
   github:
     title: Github
-    url: //github.com/wongminho
+    url: //github.com/peaceFun
     target: true
-  weibo:
-    title: Weibo
-    url: //weibo.com/WongMinHo
-    target: true
-  twitter:
-    title: Twitter
-    url: //twitter.com/huangminhow
-    target: true
+
   #qq:
   #weixin:
   #snapchat:
@@ -138,4 +131,4 @@ access_counter:
   site_pv: 总访问量：
 
 # Copyright Information | 版权信息
-copyright: 2018 MinHow
+copyright: 2018 冬春至
